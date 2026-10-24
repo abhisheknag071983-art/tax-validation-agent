@@ -1,0 +1,32 @@
+[
+  {
+    "payment_id": "PMT-001",
+    "account_id": "TX-1001",
+    "taxpayer_id": "TAX-9001",
+    "amount": 5400.00,
+    "payment_date": "2025-05-14",
+    "payment_method": "ACH",
+    "reference_no": "REF-101",
+    "notes": "Monthly tax installment payment"
+  },
+  {
+    "payment_id": "PMT-002",
+    "account_id": "TX-1002",
+    "taxpayer_id": "TAX-9002",
+    "amount": 1800.00,
+    "payment_date": "2025-05-17",
+    "payment_method": "ACH",
+    "reference_no": "REF-102",
+    "notes": "Partial payment for tax balance"
+  },
+  {
+    "payment_id": "PMT-003",
+    "account_id": "TX-1009",
+    "taxpayer_id": "TAX-9909",
+    "amount": 500.00,
+    "payment_date": "2025-05-20",
+    "payment_method": "CARD",
+    "reference_no": "REF-103",
+    "notes": "Unknown taxpayer account"
+  }
+]

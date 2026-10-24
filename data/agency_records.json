@@ -1,0 +1,32 @@
+[
+  {
+    "account_id": "TX-1001",
+    "taxpayer_name": "Alicia Moore",
+    "taxpayer_id": "TAX-9001",
+    "filing_year": 2025,
+    "assessed_amount": 5400.00,
+    "balance_due": 5400.00,
+    "status": "active",
+    "due_date": "2025-06-30"
+  },
+  {
+    "account_id": "TX-1002",
+    "taxpayer_name": "Benjamin Lee",
+    "taxpayer_id": "TAX-9002",
+    "filing_year": 2025,
+    "assessed_amount": 2700.00,
+    "balance_due": 2700.00,
+    "status": "active",
+    "due_date": "2025-06-30"
+  },
+  {
+    "account_id": "TX-1003",
+    "taxpayer_name": "Carlos Rivera",
+    "taxpayer_id": "TAX-9003",
+    "filing_year": 2025,
+    "assessed_amount": 1250.00,
+    "balance_due": 1250.00,
+    "status": "active",
+    "due_date": "2025-06-30"
+  }
+]
